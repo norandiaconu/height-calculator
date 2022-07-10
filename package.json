@@ -1,6 +1,6 @@
 {
   "name": "height-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate height from multiple input units to multiple output units.",
   "bin": {
     "height-calculator": "index.js"
@@ -13,6 +13,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "keywords": [
+		"height",
+		"calculator",
+		"height-calculator",
+		"football",
+		"fields",
+    "feet"
+	],
+	"homepage": "https://github.com/norandiaconu/height-calculator#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/norandiaconu/height-calculator.git"
+	},
   "author": "Noran Diaconu",
   "license": "ISC"
 }
